@@ -1,0 +1,9 @@
+C:\Users\sami\source\repos\Exract7zip\Exract7zip\bin\Debug\Exract7zip.exe.config
+C:\Users\sami\source\repos\Exract7zip\Exract7zip\bin\Debug\Exract7zip.exe
+C:\Users\sami\source\repos\Exract7zip\Exract7zip\bin\Debug\Exract7zip.pdb
+C:\Users\sami\source\repos\Exract7zip\Exract7zip\bin\Debug\SevenZipSharp.dll
+C:\Users\sami\source\repos\Exract7zip\Exract7zip\obj\Debug\Exract7zip.csprojAssemblyReference.cache
+C:\Users\sami\source\repos\Exract7zip\Exract7zip\obj\Debug\Exract7zip.csproj.CoreCompileInputs.cache
+C:\Users\sami\source\repos\Exract7zip\Exract7zip\obj\Debug\Exract7zip.csproj.CopyComplete
+C:\Users\sami\source\repos\Exract7zip\Exract7zip\obj\Debug\Exract7zip.exe
+C:\Users\sami\source\repos\Exract7zip\Exract7zip\obj\Debug\Exract7zip.pdb
